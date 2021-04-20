@@ -1,0 +1,6 @@
+C:\Users\big_j\source\repos\EmployeeManagementWebApp\EmployeeDemoDb\bin\Debug\EmployeeDemoDb.dacpac
+C:\Users\big_j\source\repos\EmployeeManagementWebApp\EmployeeDemoDb\bin\Debug\EmployeeDemoDb.dll
+C:\Users\big_j\source\repos\EmployeeManagementWebApp\EmployeeDemoDb\bin\Debug\EmployeeDemoDb.pdb
+C:\Users\big_j\source\repos\EmployeeManagementWebApp\EmployeeDemoDb\obj\Debug\EmployeeDemoDb.sqlprojAssemblyReference.cache
+C:\Users\big_j\source\repos\EmployeeManagementWebApp\EmployeeDemoDb\obj\Debug\EmployeeDemoDb.dll
+C:\Users\big_j\source\repos\EmployeeManagementWebApp\EmployeeDemoDb\obj\Debug\EmployeeDemoDb.pdb

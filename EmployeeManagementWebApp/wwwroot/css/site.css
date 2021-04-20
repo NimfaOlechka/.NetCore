@@ -1,0 +1,9 @@
+﻿.btn {
+    width: 75px;
+}
+
+/*Index, Details image size - not working*/
+.imageThumbnail {
+    height: 150px;
+    width: 150px;
+}
